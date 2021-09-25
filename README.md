@@ -11,7 +11,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ### Level 1: Basic Visualization
 
-![earthquakes](Images/earthquakes.png)
+![earthquakes](https://github.com/davism02/leaflet-challenge/blob/main/Images/earthquakes.PNG)
 
 Your first task is to visualize an earthquake data set.
 
