@@ -11,7 +11,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ### Level 1: Basic Visualization
 
-![earthquateks](Leaflet-Step-1/earthquakes.png)
+![Leaflet-Step-1](earthquakes.png)
 
 Your first task is to visualize an earthquake data set.
 
